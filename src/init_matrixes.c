@@ -6,11 +6,11 @@
 /*   By: rikverhoeven <rikverhoeven@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/01/07 15:29:35 by rverhoev          #+#    #+#             */
-/*   Updated: 2024/08/19 09:51:08 by rikverhoeve      ###   ########.fr       */
+/*   Updated: 2024/08/19 10:08:09 by rikverhoeve      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "mini_math.h"
+#include "libmini_math.h"
 
 void	init_t_around_z(t_vec4f R[3], float rad)
 {

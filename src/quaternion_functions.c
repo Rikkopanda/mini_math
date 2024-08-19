@@ -6,11 +6,11 @@
 /*   By: rikverhoeven <rikverhoeven@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/08 14:02:58 by rikverhoeve       #+#    #+#             */
-/*   Updated: 2024/08/19 09:42:53 by rikverhoeve      ###   ########.fr       */
+/*   Updated: 2024/08/19 10:08:09 by rikverhoeve      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "mini_math.h"
+#include "libmini_math.h"
 
 t_vec4f	normalize_quaternion(t_vec4f *q)
 {

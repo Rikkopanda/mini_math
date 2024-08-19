@@ -1,4 +1,4 @@
-NAME = mini_math.a
+NAME = libmini_math.a
 
 CFLAGS = -Wall -Wextra -Werror
 # CFLAGS := -fsanitize=address

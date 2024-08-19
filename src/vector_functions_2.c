@@ -6,11 +6,11 @@
 /*   By: rikverhoeven <rikverhoeven@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/09 12:19:24 by rverhoev          #+#    #+#             */
-/*   Updated: 2024/08/19 09:42:53 by rikverhoeve      ###   ########.fr       */
+/*   Updated: 2024/08/19 10:08:09 by rikverhoeve      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "mini_math.h"
+#include "libmini_math.h"
 
 float	dot3(t_vec4f vec_A, t_vec4f vec_B)
 {

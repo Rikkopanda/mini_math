@@ -6,11 +6,11 @@
 /*   By: rikverhoeven <rikverhoeven@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/09 12:41:06 by rverhoev          #+#    #+#             */
-/*   Updated: 2024/08/19 09:49:31 by rikverhoeve      ###   ########.fr       */
+/*   Updated: 2024/08/19 10:08:09 by rikverhoeve      ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "mini_math.h"
+#include "libmini_math.h"
 
 /**
  * https://www.freetext.org/Introduction_to_Linear_

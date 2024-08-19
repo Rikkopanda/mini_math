@@ -1,7 +1,7 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   mini_math.h                                        :+:      :+:    :+:   */
+/*   libmini_math.h                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: rikverhoeven <rikverhoeven@student.42.f    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
@@ -10,8 +10,8 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef MINI_MATH_H
-# define MINI_MATH_H
+#ifndef libmini_math_H
+# define libmini_math_H
 
 # include <stdio.h>
 # include <math.h>
